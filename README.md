@@ -1,7 +1,7 @@
 # Pitch
 
 ## Author
-[Dennis Mwaniki](https://github.com/dennismwaniki67)
+[Charles Ndugire](https://github.com/Charles-Ndugire)
 
 # Description
 

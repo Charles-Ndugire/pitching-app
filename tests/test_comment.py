@@ -16,3 +16,4 @@ class CommentModelTest(unittest.TestCase):
         self.assertEquals(self.new_comment.comment,'Test comment')
         self.assertEquals(self.new_comment.user,self.user_James)
         self.assertEquals(self.new_comment.pitch,self.new_pitch)
+        

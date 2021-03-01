@@ -8,12 +8,12 @@
 This  is a flask application that allows users to post one minute pitches and also allows other users who have signed up to comment and upvote or downvote a pitch. It also allows a person to signup to be able to access the functionalities of the application
 
 ## Live Link
-[View Site](https://pitch-app-blog.herokuapp.com/)
+Click [here] to view the site.(https://pitch-app-blog.herokuapp.com/)
 
 
 ## User Story
 
-* Comment on the different pitches posted py other uses.
+* Comment on the different pitches posted py other users.
 * See the pitches posted by other users.
 * Vote on s pitch they have viwed by giving it a upvote or a downvote.
 * Register to be allowed to log in to the application

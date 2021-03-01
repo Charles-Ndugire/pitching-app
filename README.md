@@ -45,7 +45,7 @@ export SQLALCHEMY_DATABASE_URI=postgresql+psycopg2://{User Name}:{password}@loca
 ```
 4. Running the application
 ```bash
-python3.6 manage.py server
+python3.9 manage.py server
 ```
 5.Open the application on your browser `127.0.0.1:5000`.
 

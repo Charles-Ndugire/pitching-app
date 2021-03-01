@@ -10,9 +10,6 @@ This  is a flask application that allows users to post one minute pitches and al
 ## Live Link
 [View Site](https://pitch-app-blog.herokuapp.com/)
 
-## Screenshot
-
-<img src="https://raw.githubusercontent.com/Owiti-Charles/pitch-world/master/app/static/photos/scrnew.png" width="900px" height="440px">
 
 ## User Story
 

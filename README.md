@@ -55,7 +55,7 @@ python3.9 manage.py server
 - [Heroku](https://heroku.com)
 
 ## Contact Information
-dennismwaniki67@gmail.com
+ndugirecharles@gmail.com
 
 ## Live Link To Project
 https://pitch-app-blog.herokuapp.com/

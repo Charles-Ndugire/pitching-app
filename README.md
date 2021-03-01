@@ -1,4 +1,4 @@
-# Pitch App
+# Pitch-App
 
 ## Author
 [Charles Ndugire](https://github.com/Charles-Ndugire)

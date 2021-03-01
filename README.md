@@ -38,11 +38,11 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  https://github.com/Owiti-Charles/pitch-world.git
+  https://github.com/Charles-Ndugire/pitching-app
   ```
 2. Move to the folder and install requirements
   ```bash
-  cd pitch-world
+  cd pitching-app
   pip install -r requirements.txt
   ```
 3. Exporting Configurations
@@ -51,11 +51,11 @@ To get the code..
   ```
 4. Running the application
   ```bash
-  python3.6 manage.py server
+  python3.9 manage.py server
   ```
 5. Testing the application
   ```bash
-  python3.6 manage.py test
+  python3.9 manage.py test
   ```
 Open the application on your browser `127.0.0.1:5000`.
 

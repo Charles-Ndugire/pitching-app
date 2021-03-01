@@ -31,7 +31,7 @@ To get the code..
 1. Cloning the repository:
 
 ```bash
-https://github.com/dennismwaniki67/pitch
+https://github.com/Charles-Ndugire/pitching-app
 
 2.Move to the folder and install requirements
 ```bash

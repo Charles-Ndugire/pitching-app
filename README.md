@@ -14,7 +14,7 @@ This  is a flask application that allows users to post one minute pitches and al
 ## User Story
 
 * Comment on the different pitches posted py other uses.
-* See the pitches posted by other uses.
+* See the pitches posted by other users.
 * Vote on s pitch they have viwed by giving it a upvote or a downvote.
 * Register to be allowed to log in to the application
 * View pitches from the different categories.
@@ -68,7 +68,7 @@ Open the application on your browser `127.0.0.1:5000`.
 
 
 ## Known Bugs
-* There are no known bugs currently but pull requests are allowed incase you spot a bug
+* No known bugs currently but pull requests are allowed incase you spot a bug.
 
 ## Contact Information 
 
@@ -76,4 +76,4 @@ If you have any question or contributions, please email me at [ndugirecharles@gm
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
+* Copyright (c) 2021 **Charles Ndugire**
